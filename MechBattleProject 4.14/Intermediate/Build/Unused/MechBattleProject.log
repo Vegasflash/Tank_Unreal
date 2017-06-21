@@ -1,0 +1,14 @@
+﻿  Creating makefile for hot reloading MechBattleProjectEditor (modules to compile have changed)
+  Compiling game modules for hot reload
+  Parsing headers for MechBattleProjectEditor
+    Running UnrealHeaderTool "D:\Documents\repos\MechBattleProject 4.14\MechBattleProject.uproject" "D:\Documents\repos\MechBattleProject 4.14\Intermediate\Build\Win64\MechBattleProjectEditor\Development\MechBattleProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for MechBattleProjectEditor in 4.6375995 seconds
+  Performing 4 actions (4 in parallel)
+  MechBattleProject.generated.cpp
+  Tank.cpp
+  HeavyProjectile.cpp
+D:\Documents\repos\MechBattleProject 4.14\Source\MechBattleProject\Private\Tank.cpp(39): warning C4458: declaration of 'InputComponent' hides class member
+  D:\Programs\Epic Games\4.14\Engine\Source\Runtime\Engine\Classes\GameFramework/Actor.h(319): note: see declaration of 'AActor::InputComponent'
+  [4/4] Link UE4Editor-MechBattleProject-2520.dll
+     Creating library D:\Documents\repos\MechBattleProject 4.14\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MechBattleProject-2520.lib and object D:\Documents\repos\MechBattleProject 4.14\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MechBattleProject-2520.exp
+  Total build time: 15.45 seconds

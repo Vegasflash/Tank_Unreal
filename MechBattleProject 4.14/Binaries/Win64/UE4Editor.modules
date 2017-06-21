@@ -1,0 +1,9 @@
+{
+	"Changelist" : 3249277,
+	"CompatibleChangelist" : 3195953,
+	"BuildId" : "307df932-141f-454d-96af-623881bfcbeb",
+	"Modules" : 
+	{
+		"MechBattleProject" : "UE4Editor-MechBattleProject-7483.dll"
+	}
+}
